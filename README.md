@@ -6,4 +6,4 @@ This application generates a blog based on the specifications provided by the us
 
 ## Tools and Frameworks
 
-The application uses Streamlit for the UI and Llama2 as the LLM. It has utilized Langchain as the framework and 
+The application uses Streamlit for the UI and Llama2 as the LLM. 
